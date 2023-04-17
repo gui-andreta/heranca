@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HERANCA/1.0.0": {
+        "dependencies": {
+          "PESSOA": "1.0.0"
+        },
+        "runtime": {
+          "HERANCA.dll": {}
+        }
+      },
+      "PESSOA/1.0.0": {
+        "runtime": {
+          "PESSOA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HERANCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PESSOA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

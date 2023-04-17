@@ -1,0 +1,12 @@
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\bin\Debug\net7.0\PESSOA.deps.json
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\bin\Debug\net7.0\PESSOA.dll
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\bin\Debug\net7.0\PESSOA.pdb
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\PESSOA.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\PESSOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\PESSOA.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\PESSOA.AssemblyInfo.cs
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\PESSOA.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\PESSOA.dll
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\refint\PESSOA.dll
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\PESSOA.pdb
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\trabalho-16.03\HERANCA\PESSOA\obj\Debug\net7.0\ref\PESSOA.dll
